@@ -1,0 +1,6 @@
+[submodule "dbms-be-test-todo-list"]
+	path = dbms-be-test-todo-list
+	url = git@github.com:Skladkansaeng/dbms-be-test-todo-list.git
+[submodule "dbms-react-native-test"]
+	path = dbms-react-native-test
+	url = git@github.com:Skladkansaeng/dbms-react-native-test.git
